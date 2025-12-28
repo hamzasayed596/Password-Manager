@@ -50,7 +50,7 @@ g++ main.cpp -o main
 
 **Windows**
 ```bash
-main.exe
+./main.exe
 ```
 
 ---
